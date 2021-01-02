@@ -66,7 +66,8 @@ Upcoming builds:
 
 - Karina, NK Creams [*]
 - Tina-C (rebuild)
-- Skog reboot (in a year lol)
+- Whimsy
+- Skog reboot
 - E7V2 White + all brass [*]
 - Savage65 [*]
 - Fjell grey [*]
