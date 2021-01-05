@@ -72,6 +72,7 @@ Upcoming builds:
 - Savage65 [*]
 - Fjell grey [*]
 - Atlas [*]
+- Gaff 60 [*]
 
 [*] customer build
 
