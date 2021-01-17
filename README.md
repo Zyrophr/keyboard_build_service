@@ -58,9 +58,9 @@ Past builds:
 
 - Rama Koyu, Rosélios
 
-- KBD8X MKII Polycarbonate, Brass plate w/ FFF ***&*** [PC plate w/ Koalas](https://www.twitch.tv/videos/819711065?) (link to the VOD)
+- KBD8X MKII Polycarbonate, Brass plate w/ FFF ***&*** [PC plate w/ Koalas](https://www.twitch.tv/videos/819711065?)
 
-- [Tofu65, Mauves](https://www.twitch.tv/videos/853917547) (link to the VOD) [*]
+- [Tofu65, Mauves](https://www.twitch.tv/videos/853917547) [*]
 
 - [Karina, NK Creams](https://www.twitch.tv/videos/877217086) [*]
 
