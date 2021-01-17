@@ -62,9 +62,10 @@ Past builds:
 
 - [Tofu65, Mauves](https://www.twitch.tv/videos/853917547) (link to the VOD) [*]
 
+- [Karina, NK Creams](https://www.twitch.tv/videos/877217086) [*]
+
 Upcoming builds:
 
-- Karina, NK Creams [*]
 - Tina-C (rebuild)
 - Whimsy
 - Skog reboot
