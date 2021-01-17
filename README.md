@@ -95,6 +95,7 @@ Upcoming builds:
 - Discord: [Zyrophr#1789](https://discord.com/)
 - Twitter: [@Zyrophr](https://twitter.com/Zyrophr)
 - Reddit: [u/Zyrophr](https://www.reddit.com/user/Zyrophr)
+- Youtube: [Zyrophr](https://www.youtube.com/channel/UCgI0sON_2_VYVjQo-QVkz9Q)
 
 
 
