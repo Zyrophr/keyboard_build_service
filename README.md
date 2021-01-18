@@ -62,7 +62,7 @@ Past builds:
 
 - [Tofu65, Mauves](https://www.twitch.tv/videos/853917547) [*]
 
-- [Karina, NK Creams](https://www.twitch.tv/videos/877217086) [*]
+- [Karina, NK Creams](https://www.twitch.tv/videos/877217086) - [Typing test](https://www.youtube.com/watch?v=9EItfViY3BY) [*]
 
 Upcoming builds:
 
