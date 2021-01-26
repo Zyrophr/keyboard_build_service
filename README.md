@@ -64,11 +64,13 @@ Past builds:
 
 - [Karina, NK Creams](https://www.twitch.tv/videos/877217086) - [Typing test](https://www.youtube.com/watch?v=9EItfViY3BY) [*]
 
+- [Tina-C (rebuild)](https://www.twitch.tv/videos/886275963) - [Typing test](https://www.youtube.com/watch?v=ChzwLNvzxP8)
+
 Upcoming builds:
 
-- Tina-C (rebuild)
 - Whimsy
 - Skog reboot
+- Monoflex
 - E7V2 White + all brass [*]
 - Savage65 [*]
 - Fjell grey [*]
