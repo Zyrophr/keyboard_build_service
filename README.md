@@ -66,6 +66,8 @@ Past builds:
 
 - [Tina-C (rebuild)](https://www.twitch.tv/videos/886275963) - [Typing test](https://www.youtube.com/watch?v=ChzwLNvzxP8)
 
+- [Zima](https://www.twitch.tv/videos/895851592) - [Typing test (COMING SOON)]() [*]
+
 Upcoming builds:
 
 - Whimsy
