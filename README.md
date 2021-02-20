@@ -68,9 +68,15 @@ Past builds:
 
 - [Zima](https://www.twitch.tv/videos/895851592) - [Typing test (COMING SOON)]() [*]
 
+- [Tofu65, Gat Browns](https://www.twitch.tv/videos/904750853) - [Typing test](https://www.youtube.com/watch?v=c0GJr98NE7Q) [*]
+
 Upcoming builds:
 
 - Whimsy
+- Equinox [*]
+- Discipline
+- Mercutio
+- Mysterium
 - Skog reboot
 - Monoflex
 - E7V2 White + all brass [*]
