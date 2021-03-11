@@ -53,27 +53,22 @@ I started streaming recently, so most of those build aren't recorded at all, but
 Past builds:
 
 - Tina-C, Gateron Yellows
-
 - Space65, Tealios V2
-
 - Rama Koyu, Rosélios
-
 - KBD8X MKII Polycarbonate, Brass plate w/ FFF ***&*** [PC plate w/ Koalas](https://www.twitch.tv/videos/819711065?)
-
 - [Tofu65, Mauves](https://www.twitch.tv/videos/853917547) [*]
-
 - [Karina, NK Creams](https://www.twitch.tv/videos/877217086) - [Typing test](https://www.youtube.com/watch?v=9EItfViY3BY) [*]
-
-- [Tina-C (rebuild)](https://www.twitch.tv/videos/886275963) - [Typing test](https://www.youtube.com/watch?v=ChzwLNvzxP8)
-
+- [Putain Tina-C (rebuild)](https://www.twitch.tv/videos/886275963) - [Typing test](https://www.youtube.com/watch?v=ChzwLNvzxP8)
 - [Zima](https://www.twitch.tv/videos/895851592) - [Typing test (COMING SOON)]() [*]
-
 - [Tofu65, Gat Browns](https://www.twitch.tv/videos/904750853) - [Typing test](https://www.youtube.com/watch?v=c0GJr98NE7Q) [*]
+- [Equinox](https://www.twitch.tv/videos/921985015) - [Typing test](https://www.youtube.com/watch?v=r3GwaOGjmks) [*]
+- [S58](https://www.twitch.tv/videos/940513029) - Typing test (not available atm) [*]
+
+
 
 Upcoming builds:
 
 - Whimsy
-- Equinox [*]
 - Discipline
 - Mercutio
 - Mysterium
@@ -106,6 +101,7 @@ Upcoming builds:
 - Twitter: [@Zyrophr](https://twitter.com/Zyrophr)
 - Reddit: [u/Zyrophr](https://www.reddit.com/user/Zyrophr)
 - Youtube: [Zyrophr](https://www.youtube.com/channel/UCgI0sON_2_VYVjQo-QVkz9Q)
+- Instagram: [Zyrophr_](https://www.instagram.com/zyrophr_/)
 
 
 
